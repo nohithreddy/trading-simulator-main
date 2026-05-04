@@ -1,0 +1,27 @@
+.DS_Store
+.idea/
+.vscode/
+
+# frontend
+frontend/node_modules/
+frontend/build/
+frontend/coverage/
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+# backend
+backend/target/
+backend/data/
+backend/*.log
+backend/*.out.log
+backend/*.err.log
+
+# local OS/editor files
+*.iml
+*.iws
+*.ipr
