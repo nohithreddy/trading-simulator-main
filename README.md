@@ -50,6 +50,3 @@ Before running the application, ensure that the following software is installed 
 6. Run the React.js frontend: `npm start`
 7. Access the application at `http://localhost:3000` in your web browser.
 
-## Contributors
-
-- [Nikola Grujic](https://github.com/nikolatechie)
